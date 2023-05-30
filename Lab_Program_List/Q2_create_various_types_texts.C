@@ -1,6 +1,6 @@
 /*
                           @program: 2
-    Write a program to create various types of texts and fonts.
+     Write a program to create various types of texts and fonts.
 */
 
 #include <stdio.h>
