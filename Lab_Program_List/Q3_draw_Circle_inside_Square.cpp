@@ -1,6 +1,6 @@
 /*
                   @Program: 3
-   Write a program to draw a Circle inside a Square.
+    Write a program to draw a Circle inside a Square.
 */
 
 #include <graphics.h>
