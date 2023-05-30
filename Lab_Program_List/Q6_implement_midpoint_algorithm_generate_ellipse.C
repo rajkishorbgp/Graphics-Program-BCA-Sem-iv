@@ -1,6 +1,6 @@
 /*
                 Program: 6
-     Write a program to implement midpoint algorithm to generate ellipse.
+      Write a program to implement midpoint algorithm to generate ellipse.
 */
 
 #include <stdio.h>
