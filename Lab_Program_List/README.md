@@ -1,6 +1,6 @@
 > > # **[Meerut Institute of Technology,Professional Courses, Meerut (1110)](https://www.mitmeerut.net.in/)**
 > >
-> > > > > > > > > ## _Department of Computer Application ( BCA)_
+> > > ## _Department of Computer Application ( BCA)_
 
 ---
 
@@ -136,3 +136,5 @@
 ```
 29. Write a C program to draw pie chart using graphics.
 ```
+
+![My College](https://www.instagram.com/p/CqUL0xaPHPS/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
