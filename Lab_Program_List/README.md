@@ -137,4 +137,4 @@
 29. Write a C program to draw pie chart using graphics.
 ```
 
-![My College](https://www.instagram.com/p/CqUL0xaPHPS/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+![My College](https://github.com/rajkishorbgp/my-personal-data-/blob/main/College/1686057867605.jpg)
