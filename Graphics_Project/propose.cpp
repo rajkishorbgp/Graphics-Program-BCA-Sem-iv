@@ -350,8 +350,6 @@ int main()
         arc(625 + i, 115 + y, 49, 118, 60);
         line(664 + i, 70 + y, 1100 + i, 360 + y);
 
-
-
     delay(100);
     page = 1 - page;
     n++;
