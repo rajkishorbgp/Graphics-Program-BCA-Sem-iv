@@ -102,39 +102,39 @@
 ```
 
 ```
-21. Write a C graphics program to create a text animation.
+22. Write a C graphics program to create a text animation.
 ```
 
 ```
-22. Write a Program to draw the moving cycle using computer graphics.
+23. Write a Program to draw the moving cycle using computer graphics.
 ```
 
 ```
-23. Write a Program for moving circle in different directions.
+24. Write a Program for moving circle in different directions.
 ```
 
 ```
-24. Write a Program to make a digital clock.
+25. Write a Program to make a digital clock.
 ```
 
 ```
-25. Write a C program to draw circles in circles in two different colors .
+26. Write a C program to draw circles in circles in two different colors .
 ```
 
 ```
-26. Write a C program to draw sine wave using graphics.
+27. Write a C program to draw sine wave using graphics.
 ```
 
 ```
-27. Write a program to implement midpoint algorithm to generate ellipse.
+28. Write a program to implement midpoint algorithm to generate ellipse.
 ```
 
 ```
-28. Write a C program to draw bar graph using graphics.
+29. Write a C program to draw bar graph using graphics.
 ```
 
 ```
-29. Write a C program to draw pie chart using graphics.
+30. Write a C program to draw pie chart using graphics.
 ```
 
 ![My College](https://github.com/rajkishorbgp/my-personal-data-/blob/main/College/1686057867605.jpg)
