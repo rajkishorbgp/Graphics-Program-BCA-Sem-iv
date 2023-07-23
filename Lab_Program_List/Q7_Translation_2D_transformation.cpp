@@ -1,5 +1,5 @@
 /*
-                Program: 7
+                    Program: 7
     Write a program to perform Translation in 2D transformation.
 */
 
@@ -8,7 +8,7 @@
 int main()
 {
     int arr[8], size, i, tx, ty;
-    initwindow(800,800,"RajKishor");
+    initwindow(800, 800, "RajKishor");
     size = sizeof(arr) / sizeof(int);
     std::cout << "Enter the triangle point p1(x,y), p2(x,y), p3(x,y): ";
     for (i = 0; i < size - 2; i++)
