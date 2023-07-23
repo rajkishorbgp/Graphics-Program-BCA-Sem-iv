@@ -1,5 +1,5 @@
 /*
-                  @Program: 3
+                  Program: 3
     Write a program to draw a Circle inside a Square.
 */
 
