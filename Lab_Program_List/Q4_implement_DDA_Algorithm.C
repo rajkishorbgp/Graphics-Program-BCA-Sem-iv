@@ -1,5 +1,5 @@
 /*
-              @Program: 4
+                    Program: 4
       Write a program to implement DDA Algorithm for drawing a line segment
      between two given end points(x1, y1) and (x2,y2).
 
