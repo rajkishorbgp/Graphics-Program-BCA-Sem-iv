@@ -1,5 +1,5 @@
 /*
-                          @program: 2
+                    program: 2
      Write a program to create various types of texts and fonts.
 */
 
