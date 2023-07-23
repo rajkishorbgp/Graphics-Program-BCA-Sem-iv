@@ -1,5 +1,5 @@
 /*
-                 @Program: 1
+                 Program: 1
     Write a program to display different pattern of lines.
 */
 
