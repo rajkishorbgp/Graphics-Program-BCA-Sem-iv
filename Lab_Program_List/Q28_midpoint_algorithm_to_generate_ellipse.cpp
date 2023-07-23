@@ -1,5 +1,5 @@
 /*
-                       Program: 27
+                       Program: 28
     Write a program to implement midpoint algorithm to generate ellipse.
 */
 #include <stdio.h>
