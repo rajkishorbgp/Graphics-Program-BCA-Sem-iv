@@ -1,5 +1,5 @@
 /*
-                Program: 6
+                     Program: 6
       Write a program to implement midpoint algorithm to generate ellipse.
 */
 
