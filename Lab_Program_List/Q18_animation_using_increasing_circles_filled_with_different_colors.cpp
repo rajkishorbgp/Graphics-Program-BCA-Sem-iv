@@ -27,7 +27,7 @@ int main()
         s++;
         delay(200);
     }
-    printf("raj");
     getch();
     closegraph();
+    return 0;
 }

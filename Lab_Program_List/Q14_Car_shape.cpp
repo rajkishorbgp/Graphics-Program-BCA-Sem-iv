@@ -19,7 +19,7 @@ int main()
     circle(600, 400, 15);
 
     // body
-    // tyre upbodys
+    // tire upbody
     arc(250, 400, 0, 180, 70);
     arc(600, 400, 0, 180, 70);
     line(320, 400, 530, 400);

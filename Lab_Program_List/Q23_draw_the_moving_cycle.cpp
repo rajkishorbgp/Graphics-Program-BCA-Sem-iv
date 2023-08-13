@@ -10,7 +10,7 @@ int main()
 {
     int speed = 0, f = 1;
     initwindow(1200, 800, "Rajkishor");
-    while (f)
+    while (!kbhit())
     {
         cleardevice();
 
@@ -39,26 +39,12 @@ int main()
             // cycle tires
             circle(100 + speed, 450, 50 - k); // first circle left side
             circle(250 + speed, 450, 50 - k); // second circle risht side
+            getch();
         }
-
-        if (GetAsyncKeyState(VK_LEFT))
-        {
-
-            speed -= 5;
-        }
-
-        if (GetAsyncKeyState(VK_RIGHT))
-        {
-
-            speed += 5;
-        }
-        if (GetAsyncKeyState(VK_BACK))
-        {
-            f = 0;
-        }
+        speed+=3;
         delay(20);
     }
-    getch();
+
     closegraph();
     return 0;
 }

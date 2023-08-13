@@ -7,37 +7,31 @@
 #include <graphics.h>
 int main()
 {
-    int x, y, i, f;
+    int x, x1, i, f=1;
     initwindow(1000, 800, "Rajkishor");
-    x = 400;
-    y = 400;
-    for (i = 0; i < 5; i++)
-
-        while (f)
+    x = -30;
+    x1 = 1030;
+        while (!kbhit())
         {
             cleardevice();
             for (i = 0; i < 4; i++)
-                circle(x, y, 100 - i);
+            {
+                circle(x, 400, 50+i);
+                circle(x1, 400, 50+i);
+            }
+            if(x+60>=x1-50 && f){
+                f=0;
+                x--;
+                x1++;
+            }
+            if(f)
+            {
+                x++;
+                x1--;
+            }else{
+              x--;
+              x1++;
 
-            if (GetAsyncKeyState(VK_LEFT))
-            {
-                x -= 5;
-            }
-            if (GetAsyncKeyState(VK_RIGHT))
-            {
-                x += 5;
-            }
-            if (GetAsyncKeyState(VK_UP))
-            {
-                y -= 5;
-            }
-            if (GetAsyncKeyState(VK_DOWN))
-            {
-                y += 5;
-            }
-            if (GetAsyncKeyState(VK_BACK))
-            {
-                f = 0;
             }
             delay(20);
         }

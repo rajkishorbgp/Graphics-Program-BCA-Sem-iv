@@ -4,7 +4,7 @@
 */
 #include <stdio.h>
 #include <graphics.h>
-void main()
+int main()
 {
     int gd = DETECT, gm;
     float p, x, y, xc, yc, a, b;
@@ -58,5 +58,5 @@ void main()
     } while (y != 0);
     getch();
     closegraph();
-    restorecrtmode();
+    //restorecrtmode();
 }
